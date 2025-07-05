@@ -1,2 +1,2 @@
 # angular-interview-practice
-It will consists of practice questions realted to frontend developer interview
+It will consists of practice questions related to frontend developer interview.
